@@ -30,4 +30,4 @@ for expense in expenses:
         category_totals[category] += amount
     else:
         category_totals[category] = amount
-print(category_totals) 
+print(category_totals)
