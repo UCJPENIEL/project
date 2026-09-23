@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2026-09-11",
+        "category": "food",
+        "description": "lunch",
+        "amount": 3500
+    },
+    {
+        "date": "2026-09-12",
+        "category": "transportation",
+        "description": "bus fare",
+        "amount": 1500
+    },
+    {
+        "date": "2026-09-13",
+        "category": "bills",
+        "description": "internet subscription",
+        "amount": 25000
+    },
+    {
+        "amount": 29500.0,
+        "date": "2026-07-09",
+        "category": "transortation",
+        "description": "home to hub"
+    },
+    {
+        "amount": 4500.0,
+        "date": "20266-05-12",
+        "category": "food",
+        "description": "1 paint od rice"
+    }
+]
